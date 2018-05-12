@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25961'
     url: http://www.gutenberg.org/2009/agents/25961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23651#Test-Rocket-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-11-28'
 gutenberg_type: Text
